@@ -13,7 +13,7 @@
   <img align="center" alt="Douglas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Douglas-Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg">
   <img align="center" alt="Douglas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Douglas-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/sql.svg">
+  <img align="center" alt="Douglas-SQL" height="30" width="40" src="https://github.com/amido/azure-vector-icons/blob/master/icons/SQL%20Database%20(SQL%20Azure).svg">
 </div>
   
   ##
