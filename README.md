@@ -2,7 +2,7 @@
 
  <div>
   <a href="https://github.com/douglassilva05">
-  <img height="180em" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglassilva05)](https://github.com/anuraghazra/github-readme-stats)
+  <img height="180em" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglassilva05)](https://github.com/anuraghazra/github-readme-stats)"
 />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglassilva05&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
