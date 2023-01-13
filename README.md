@@ -2,12 +2,10 @@
 
  <div>
   <a href="https://github.com/douglassilva05">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglassilva05"
+  <img height="180em" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglassilva05&hide=contribs,prs)"
 />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglassilva05&layout=compact&langs_count=7&theme=nightowl"/>
-   
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglassilva05&layout=compact"/>
-</div>
+   </div>
  
 
 <div style="display: inline_block"><br>
